@@ -1,3 +1,3 @@
 User-agent: *
-Sitemap: https://guided-porpoise.cloudvent.net/sitemap.xml
+Sitemap: http://www.cassiano.me//sitemap.xml
 Disallow: /contact-success/
