@@ -2,7 +2,7 @@
 # Site
 
 title: Lojinha do Matheus
-url: "https://guided-porpoise.cloudvent.net"
+url: "http://www.cassiano.me/"
 baseurl: /lojinha/
 google_analytics_key:
 newsletter_action:
@@ -18,7 +18,7 @@ author:
 social:
   name: Lojinha do Matheus
   links:
-    - https://guided-porpoise.cloudvent.net
+    - http://www.cassiano.me/lojinha/
 
 # -----
 # Build
