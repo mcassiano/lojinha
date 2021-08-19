@@ -14,4 +14,4 @@ R$ 1.200,00. Isolamento perfeito, eu amo muito esse fone, mas troquei por AirPod
 
 Comprado em 2018<br>Ear pads recém substitu&iacute;dos​​
 
-![](/photo-2021-08-18-13-20-54.jpeg){: width="672" height="504"}
+![](photo-2021-08-18-13-20-54.jpeg){: width="672" height="504"}
