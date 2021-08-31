@@ -1,6 +1,6 @@
 ---
 date: 2021-08-17 00:00:00
-title: MacBook Pro 15" 2017
+title: MacBook Pro 15" 2017 (Vendido)
 categories:
   - Eletronicos
 featured_image: /img-0369.jpg
